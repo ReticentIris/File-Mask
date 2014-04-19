@@ -1,9 +1,0 @@
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\Image Mask.csprojResolveAssemblyReference.cache
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\Image Mask.csproj.GenerateResource.Cache
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\bin\Debug\File Mask.exe.config
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\bin\Debug\File Mask.exe
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\bin\Debug\File Mask.pdb
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\File_Mask.Properties.Resources.resources
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\File Mask.exe
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\File Mask.pdb
-c:\users\***REMOVED***\documents\visual studio 11\Projects\Image Mask\Image Mask\obj\Debug\File_Mask.frame.resources
